@@ -1,0 +1,7 @@
+{
+  "name": "慧食 (SmartEat) - AI 营养伴侣",
+  "description": "一款基于 AI 和机器学习的个人饮食营养管家。通过拍照识别食物种类与体积，精准分析卡路里与营养成分，为您定制个性化的周/月饮食任务。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
